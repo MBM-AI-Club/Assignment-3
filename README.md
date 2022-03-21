@@ -3,9 +3,10 @@
 Q. Design a Tic-Tac-Toe game in python by taking position inputs of both 'X' and 'O' users, displaying the move after each turn and displaying the winner in the end.
 
 Example:
-
+```
 In: 
 Player X: 4
+
 Out:
    |   |
 -----------
@@ -50,3 +51,4 @@ Out:
    |   | X
 
 Player X is the winner!!!
+```
