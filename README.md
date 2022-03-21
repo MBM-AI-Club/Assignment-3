@@ -1,5 +1,3 @@
-# Assignment 2
+# Assignment 3
 
-Q. Take input from the user for 2 numbers and the operation we wish to perform and make a calculator. Add extra operations for additional points
-
-(Hint: Check control statements)
+Q. Design a Tic-Tac-Toe game in python by taking inputs of both 'X' and 'O' from the user, displaying the move after each turn and displaying the winner in the end.
